@@ -96,4 +96,4 @@ You can customize the following via the sidebar in the app:
 
 **Sebahadin Denur**  
 NYU Abu Dhabi  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sebahadin-denur/) or contribute to the project!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sebahadin-denur-435ba1283/) or contribute to the project!
